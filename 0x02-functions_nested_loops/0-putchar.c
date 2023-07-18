@@ -2,9 +2,7 @@
 
 /**
  * main - Entry point 
- *
  * Description: 'print _putchar to stdout
- *
  * Return: always 0
 */
 
