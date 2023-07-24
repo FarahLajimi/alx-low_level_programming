@@ -3,9 +3,9 @@
 /**
  * reset_to_98 - function that sets a pointer to 98
  *
- * @n: Integer to be resetted to 98
+ * @n: input
  *
- * Return: Success
+ * Return: n
  *
  */
 
